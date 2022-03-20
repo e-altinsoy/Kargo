@@ -1,0 +1,28 @@
+c:\users\rezan yıldız\documents\visual studio 2013\Projects\kargo\kargo\bin\kargo.dll.config
+c:\users\rezan yıldız\documents\visual studio 2013\Projects\kargo\kargo\bin\kargo.dll
+c:\users\rezan yıldız\documents\visual studio 2013\Projects\kargo\kargo\bin\kargo.pdb
+c:\users\rezan yıldız\documents\visual studio 2013\Projects\kargo\kargo\obj\Debug\kargo.csprojResolveAssemblyReference.cache
+c:\users\rezan yıldız\documents\visual studio 2013\Projects\kargo\kargo\obj\Debug\kargo.dll
+c:\users\rezan yıldız\documents\visual studio 2013\Projects\kargo\kargo\obj\Debug\kargo.pdb
+C:\Users\Rmzn_Shn\Desktop\kargo\kargo\bin\kargo.dll.config
+C:\Users\Rmzn_Shn\Desktop\kargo\kargo\bin\kargo.dll
+C:\Users\Rmzn_Shn\Desktop\kargo\kargo\bin\kargo.pdb
+C:\Users\Rmzn_Shn\Desktop\kargo\kargo\obj\Debug\kargo.csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\kargo\kargo\obj\Debug\kargo.dll
+C:\Users\Rmzn_Shn\Desktop\kargo\kargo\obj\Debug\kargo.pdb
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu-master\Kkargo\2.Aşama\kargo\kargo\obj\Debug\kargo.csprojAssemblyReference.cache
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu-master\Kkargo\2.Aşama\kargo\kargo\obj\Debug\kargo.csproj.CoreCompileInputs.cache
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu-master\Kkargo\2.Aşama\kargo\kargo\obj\Debug\kargo.dll
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu-master\Kkargo\2.Aşama\kargo\kargo\obj\Debug\kargo.pdb
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu-master\Kkargo\2.Aşama\kargo\kargo\bin\kargo.dll.config
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu-master\Kkargo\2.Aşama\kargo\kargo\bin\kargo.dll
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu-master\Kkargo\2.Aşama\kargo\kargo\bin\kargo.pdb
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu-master\Kkargo\2.Aşama\kargo\kargo\obj\Debug\kargo.csproj.CopyComplete
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu\Kkargo\kargo\kargo\bin\kargo.dll.config
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu\Kkargo\kargo\kargo\bin\kargo.dll
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu\Kkargo\kargo\kargo\bin\kargo.pdb
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu\Kkargo\kargo\kargo\obj\Debug\kargo.csprojAssemblyReference.cache
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu\Kkargo\kargo\kargo\obj\Debug\kargo.csproj.CoreCompileInputs.cache
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu\Kkargo\kargo\kargo\obj\Debug\kargo.csproj.CopyComplete
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu\Kkargo\kargo\kargo\obj\Debug\kargo.dll
+C:\Users\laptop MSI\source\repos\Asp.Net-Kargo-Takip-Otomasyonu\Kkargo\kargo\kargo\obj\Debug\kargo.pdb
